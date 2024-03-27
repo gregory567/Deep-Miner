@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1681403436 source:c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\main.cpp
+	<iostream>
+	<array>
+	<cstdlib>
+	<ctime>
+	<string>
+	<algorithm>
+	<functional>
+	"Robot.hpp"
+	"Mine.hpp"
+	"Mine.cpp"
+	"sortingBot.hpp"
+	"sortingBot.cpp"
+	"tripleBot.hpp"
+	"tripleBot.cpp"
+	"skilledBot.hpp"
+	"skilledBot.cpp"
+	"Game.hpp"
+	"Game.cpp"
+
+1681403724 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\robot.hpp
+
+1681595556 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\mine.hpp
+
+1681595902 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\mine.cpp
+
+1681302981 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\sortingbot.hpp
+
+1681302277 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\triplebot.hpp
+
+1681302323 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\skilledbot.hpp
+
+1681306660 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\sortingbot.cpp
+	"Robot.cpp"
+
+1681596888 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\robot.cpp
+
+1681405051 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\triplebot.cpp
+
+1681405115 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\skilledbot.cpp
+
+1681405269 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\game.hpp
+
+1681597064 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\deepminer\game.cpp
+
